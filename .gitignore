@@ -1,0 +1,15 @@
+# ========================================================================
+# Below is a list of files to ignore specifically for Quartus projects
+
+# Ignore everything
+*.*
+
+# But not these files...
+!*.gitignore
+!*.v
+!*.md
+!*.pdf
+!*.qpf
+
+# Credits to https://stackoverflow.com/a/987162
+# ========================================================================

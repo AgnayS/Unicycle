@@ -1,0 +1,669 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vC_Add
+Z0 !s110 1708457679
+!i10b 1
+!s100 YTnj^WnhMRW7bY[gZfNE10
+IBETk<IUEKcZUmCkM`?KV62
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/simulation
+w1705088507
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Add.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Add.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1708457679.000000
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Add.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@c_@add
+vC_ALU
+R0
+!i10b 1
+!s100 SNfK^gPc``km=zf^k70`C2
+IMWU^o0?Ok>_HFNmNE3OL@0
+R1
+R2
+w1706213241
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_ALU.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_ALU.v|
+!i113 1
+R5
+R6
+n@c_@a@l@u
+vC_And3
+R0
+!i10b 1
+!s100 <>_EI^g1[R0Wo9J_oh]831
+IVfhfB:Y`0k6MIEjY^S:AU0
+R1
+R2
+w1705088555
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_And3.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_And3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_And3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_And3.v|
+!i113 1
+R5
+R6
+n@c_@and3
+vC_Comparator
+R0
+!i10b 1
+!s100 HT3eaEDi]R9T;L@keJCNL3
+I8K7;UJVL^igUXnR6jiD8k3
+R1
+R2
+w1706889502
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Comparator.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Comparator.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Comparator.v|
+!i113 1
+R5
+R6
+n@c_@comparator
+vC_Constant
+R0
+!i10b 1
+!s100 Un?oa=b@KJNoik>6_Q<D:2
+IcEFCTL_E4YbS4IWb<J>@90
+R1
+R2
+w1705265225
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Constant.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Constant.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Constant.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Constant.v|
+!i113 1
+R5
+R6
+n@c_@constant
+vC_Counter
+R0
+!i10b 1
+!s100 [9h@dZMOaQUQ1PaEM^`cI0
+I4z_UUjTGbMHcSY>V5GD^M3
+R1
+R2
+w1706670132
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Counter.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Counter.v|
+!i113 1
+R5
+R6
+n@c_@counter
+vC_Decoder_3
+R0
+!i10b 1
+!s100 llJ=UWNIF:NfZWV5BfUSU1
+I1;6abkD9j_]UWK]ddebTI0
+R1
+R2
+w1705444722
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Decoder_3.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Decoder_3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Decoder_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Decoder_3.v|
+!i113 1
+R5
+R6
+n@c_@decoder_3
+vC_Equal
+R0
+!i10b 1
+!s100 D3WZUd`Cee8^JO3G;YQ`Q2
+IikC6^6LSoYSFo1@noRi`>2
+R1
+R2
+w1705087317
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Equal.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Equal.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Equal.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Equal.v|
+!i113 1
+R5
+R6
+n@c_@equal
+vC_Immediate
+Z7 !s110 1708457680
+!i10b 1
+!s100 kI`lz6R9FW4AI8hBHz[E12
+In04lgdjVNbfd4PNDCAl_E0
+R1
+R2
+w1706673263
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Immediate.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Immediate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Immediate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Immediate.v|
+!i113 1
+R5
+R6
+n@c_@immediate
+vC_LessI
+R0
+!i10b 1
+!s100 1hWj<<mM=n5RoohMZgJzR1
+ID6o4gbo>iLUG]?i[Qg=bS2
+R1
+R2
+w1705087058
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_LessI.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_LessI.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_LessI.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_LessI.v|
+!i113 1
+R5
+R6
+n@c_@less@i
+vC_Memory
+R0
+!i10b 1
+!s100 Kg;jV?^YSL[:;M2h;8YSA0
+InB053JMm@<PKjYUT<85nX1
+R1
+R2
+w1706670567
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory.v|
+!i113 1
+R5
+R6
+n@c_@memory
+vC_Mux
+R0
+!i10b 1
+!s100 OhIY=3QQ<C;L`P9i]MdP63
+IFoJJNbHTD<H=@[23YQI9A0
+R1
+R2
+w1706223513
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux.v|
+!i113 1
+R5
+R6
+n@c_@mux
+vC_Mux_3
+R0
+!i10b 1
+!s100 6ek>finS>cdF_KT6Qj>iF2
+I8A3=>=[>XkN`:Cj8KVGHV2
+R1
+R2
+w1706653370
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux_3.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux_3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Mux_3.v|
+!i113 1
+R5
+R6
+n@c_@mux_3
+vC_Neg
+R0
+!i10b 1
+!s100 F6OehkUEa4SN3NI27P4Uk3
+I9HUcc?n;>Q5>VM@JnSlWc0
+R1
+R2
+w1705086839
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Neg.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Neg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Neg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Neg.v|
+!i113 1
+R5
+R6
+n@c_@neg
+vC_Not
+R0
+!i10b 1
+!s100 35cRaEmWf3d<OTWQHFQSN2
+IKoI>X:KPTESZLJ2N[^XRP3
+R1
+R2
+w1705086832
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Not.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Not.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Not.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Not.v|
+!i113 1
+R5
+R6
+n@c_@not
+vC_Or
+R0
+!i10b 1
+!s100 5O`Tfn^5KRLB=CMUoo37O1
+Ih@d41?OF;a1Z_4Z_m:83I3
+R1
+R2
+w1705086224
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Or.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Or.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Or.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Or.v|
+!i113 1
+R5
+R6
+n@c_@or
+vC_Register
+R0
+!i10b 1
+!s100 G8Z@J98o3l1<_`UeOX:<13
+IXR:Lo=zVM`RdfZ`QAhE@P0
+R1
+R2
+w1706655212
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Register.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Register.v|
+!i113 1
+R5
+R6
+n@c_@register
+vC_SHIFT
+R0
+!i10b 1
+!s100 EB`SEe969=06QegnBSgcR2
+IcS4lEl6inEFLRA<ZA>0_n2
+R1
+R2
+w1706219575
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Shift.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Shift.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Shift.v|
+!i113 1
+R5
+R6
+n@c_@s@h@i@f@t
+vC_Switch
+R0
+!i10b 1
+!s100 HNh68@Q0ZA?Ee3:QDj2b:2
+I1j8hLelf2L2HZ=`iTI9:<2
+R1
+R2
+w1705085095
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Switch.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Switch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Switch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Switch.v|
+!i113 1
+R5
+R6
+n@c_@switch
+vC_Xor
+R0
+!i10b 1
+!s100 JS7QX`V=`6k?]KdLFeEBE0
+IcW[=[M9]`WnCgk?D>618A0
+R1
+R2
+w1705085027
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Xor.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Xor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Xor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Xor.v|
+!i113 1
+R5
+R6
+n@c_@xor
+vL_Clock_Divider
+R7
+!i10b 1
+!s100 f];bezn]KHZGTb2_ZSd6J2
+IS?9Rc:NoW[6_PhaAdiM5I0
+R1
+R2
+w1706670722
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Clock_Divider.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Clock_Divider.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1708457680.000000
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Clock_Divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Clock_Divider.v|
+!i113 1
+R5
+R6
+n@l_@clock_@divider
+vL_Control
+Z9 !s110 1708457678
+!i10b 1
+!s100 4^mE42Z4FXdQ<L4:4gO=z0
+IZlY6b=SW=Xgl314L[SMVg1
+R1
+R2
+w1706887457
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Control.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Control.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1708457678.000000
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Control.v|
+!i113 1
+R5
+R6
+n@l_@control
+vL_Logical_Sector
+R0
+!i10b 1
+!s100 kfL`Rb9VzbD71<8dB3LKL2
+IogG=AI2XUkY?3<k[8XWB50
+R1
+R2
+w1706639096
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Logical_Sector.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Logical_Sector.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Logical_Sector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Logical_Sector.v|
+!i113 1
+R5
+R6
+n@l_@logical_@sector
+vL_Register_File
+R0
+!i10b 1
+!s100 =_n86Ke1cjK]N5LReF<6R3
+I_SEm=m4m^eUnIfe7UU5Xo3
+R1
+R2
+w1706654149
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Register_File.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Register_File.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Register_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Register_File.v|
+!i113 1
+R5
+R6
+n@l_@register_@file
+vL_Value_Selection
+R9
+!i10b 1
+!s100 0D[B9C]LDRkOB81Kh]nZS2
+IiNd`P=3=5a?6>UBaDGdei2
+R1
+R2
+w1706893991
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Value_Selection.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Value_Selection.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Value_Selection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_Value_Selection.v|
+!i113 1
+R5
+R6
+n@l_@value_@selection
+vP_Liu
+R9
+!i10b 1
+!s100 >LgK32VI]zZ;moV73d8VV2
+IP@mzPM[:Hc<3K39GI9fM33
+R1
+R2
+w1706761454
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu.v
+L0 3
+R3
+r1
+!s85 0
+31
+R10
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu.v|
+!i113 1
+R5
+R6
+n@p_@liu
+vP_Liu_Clock_Mod
+R7
+!i10b 1
+!s100 W[Z[?hFcQS@`mbHg^0YfD0
+I4bI:9m1Ajl1PJ`TeDWzFI1
+R1
+R2
+w1707165065
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu_Clock_Mod.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu_Clock_Mod.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu_Clock_Mod.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/processor/P_Liu_Clock_Mod.v|
+!i113 1
+R5
+R6
+n@p_@liu_@clock_@mod
+vT_P_Liu
+R9
+!i10b 1
+!s100 8QTjOGEdF<H9]Jg=W`UdN0
+IW57CGD1^40eGe>hQdg?fm0
+R1
+R2
+w1706887305
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu.v
+L0 3
+R3
+r1
+!s85 0
+31
+R10
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu.v|
+!i113 1
+R5
+R6
+n@t_@p_@liu
+vT_P_Liu_2
+R7
+!i10b 1
+!s100 `:Wg4B1IJ8dEZ;:Y4oLUm3
+IX<F752ZRg8elafR;AV3H01
+R1
+R2
+w1707751959
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu_2.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu_2.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/test/T_P_Liu_2.v|
+!i113 1
+R5
+R6
+n@t_@p_@liu_2
+vtrue_dual_port_ram_dual_clock
+R0
+!i10b 1
+!s100 GLA336DXfFYol3ODPKPQl3
+I`@aOcQS@Jn^A6J_XfCU@I2
+R1
+R2
+w1707078041
+8S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory_Builtin_Dual.v
+FS:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory_Builtin_Dual.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory_Builtin_Dual.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/components/C_Memory_Builtin_Dual.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,29 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do proc-16b_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# Error 133: Unable to remove directory "S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/simulation/modelsim/rtl_work".
+# vlib rtl_work
+# ** Error: (vlib-35) Failed to create directory "rtl_work".
+# File exists. (errno = EEXIST)
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic {S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_ALU_4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:54:57 on Jan 22,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic" S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_ALU_4.v 
+# -- Compiling module L_ALU_4
+# ** Error: S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_ALU_4.v(11): (vlog-2110) Illegal reference to net "out".
+# ** Error: S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic/L_ALU_4.v(11): Initializer must be a constant value or constant expression.
+# End time: 11:54:57 on Jan 22,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./proc-16b_run_msim_rtl_verilog.do line 8
+# C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+S:/CSSE232/rhit-csse232-2324b-project-v-2324b-02/implementation/Verilog/logic {S:/CSSE232/rhit-csse232-2324b-pro..."

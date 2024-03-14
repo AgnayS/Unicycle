@@ -1,0 +1,31 @@
+# it reads a value from input line to x1
+# it also tries to add x1 by 1 in the middle of the program
+# it tries to use getpc and setpc to skip adding x1 by 1
+# so, if x1 is still the same as input line, getpc and setpc should work correctly
+
+read x1
+getpc x2
+addi x2 x2 8
+setpc x2
+addi x1 x1 1
+write x1
+stop
+
+Memory Map:
+
+8040
+8040
+1ff0
+7508
+1880
+7708
+8000
+0000
+7101
+7602
+2212
+770a
+2049
+7109
+8000
+

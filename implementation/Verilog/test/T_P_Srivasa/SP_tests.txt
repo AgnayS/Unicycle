@@ -1,0 +1,11 @@
+# Load 5 into a register
+LI x1 5
+# Set SP to 5
+SETSP x1
+# Increment it by 5
+CHGSP x1
+# See that we have ten at the end
+GETSP x2
+# Write it to output for us to see
+WRITE x2
+STOP
